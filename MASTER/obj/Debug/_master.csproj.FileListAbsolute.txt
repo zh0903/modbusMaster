@@ -1,0 +1,17 @@
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\_master.csprojResolveAssemblyReference.cache
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form4.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form5.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form6.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form7.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form8.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MDIParent1.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\_master.csproj.GenerateResource.Cache
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\_master.csproj.CoreCompileInputs.cache
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\QQPCmgr\Desktop\shortcut\modbuspoll\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
